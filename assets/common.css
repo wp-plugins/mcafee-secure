@@ -1,0 +1,41 @@
+#wpbody-content img {
+   vertical-align:middle;
+}
+h2 img {
+   width:25px;
+   height:25px;
+   padding-right:5px;
+   border:0;
+}
+
+
+#pitch {
+   height:335px;
+   width:700px;
+   border:solid 1px #ccc;
+   background-color:#fff;
+   background-repeat:no-repeat;
+   background-position:center left;
+   background-image:url(laptop-preview.png);
+   margin-top: 40px;
+}
+#pitch .pitch-content {
+   padding-top:50px;
+   padding-right:50px;
+   padding-left:250px;
+}
+#pitch .pitch-title {
+   font-weight: 200;
+   font-size: 30px;
+   margin-bottom: 10px;
+   line-height: 125%;
+   color:#333;
+}
+#pitch .pitch-title b {
+   font-weight: 200;
+   color:#aa0828;
+}
+#pitch .pitch-content {
+   line-height:150%;
+   color:#333;
+}

@@ -113,7 +113,7 @@ function mcafeesecure_options_page() {
 </div>
 
 <div id="mfes-signup" style="display:none;">
-<h3 class="title">Active Account</h3>
+<h3 class="title">Activate Account</h3>
 <p>To active your account, simply enter your email address and website URL.</p>
 <form action="https://www.mcafeesecure.com/app/wordpress/signup" method="post" target="_blank">
 <input type="hidden" name="aff" value="<?php echo $affiliate ?>">

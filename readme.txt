@@ -1,5 +1,5 @@
 === McAfee SECURE ===
-Contributors: pathdefenderben
+Contributors: mcafeesecureben
 Tags: security, marketing, seo, trustmark, widget
 Requires at least: 4.2.1
 Tested up to: 4.2.1

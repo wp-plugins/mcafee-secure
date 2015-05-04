@@ -73,7 +73,7 @@ function mcafeesecure_options_page() {
    $email = get_userdata(get_current_user_id())->user_email;
    $partner = 'wp-generic';
    $affiliate = '221269'; //Change to your affiliateId
-   $assets = WP_PLUGIN_URL . '/mcafeesecure-wordpressplugin/assets/';
+   $assets = WP_PLUGIN_URL . '/mcafee-secure/assets/';
    if($_GET["active"] == 1) update_option("mcafeesecure_active","1");
 ?>
 <div class="wrap">

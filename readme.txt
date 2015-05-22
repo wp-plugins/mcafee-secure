@@ -7,7 +7,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Show visitors your site has been tested and certified to be secure with the McAfee SECURE trustmark.
+The McAfee SECURE trustmark is a free way to show visitors your site has been tested and certified to be secure.
 
 == Description ==
 

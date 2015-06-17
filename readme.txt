@@ -79,7 +79,7 @@ The McAfee SECURE trustmark is temporarily revoked for any domain that fails to 
 == Screenshots ==
 
 1. The McAfee SECURE trustmark lets your website visitors know that you're trustworthy and safe to do business with.
-2. The trustmark also provides visitors with a business' contact information, which helps build trust between customer and company.
+2. After visitors have seen the trustmark and their security needs are met, it becomes smaller, saving you valuable real estate on your site.
 3. The verification page on mcafeesecure.com is a way for visitors to authenticate a website's security certificattion by navigating to a third-party page.
 4. Simple plugin control panel.
 

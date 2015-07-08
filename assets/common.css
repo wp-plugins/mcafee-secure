@@ -1,7 +1,7 @@
 #wpbody-content img {
    vertical-align:middle;
 }
-h2 img {
+#mcafeesecure-config-body h2 img {
    width:25px;
    height:25px;
    padding-right:5px;
@@ -9,7 +9,7 @@ h2 img {
 }
 
 
-#pitch {
+#mcafeesecure-pitch {
    height:335px;
    width:700px;
    border:solid 1px #ccc;
@@ -19,23 +19,23 @@ h2 img {
    background-image:url(laptop-preview.png);
    margin-top: 40px;
 }
-#pitch .pitch-content {
+#mcafeesecure-pitch .pitch-content {
    padding-top:50px;
    padding-right:50px;
    padding-left:250px;
 }
-#pitch .pitch-title {
+#mcafeesecure-pitch .pitch-title {
    font-weight: 200;
    font-size: 30px;
    margin-bottom: 10px;
    line-height: 125%;
    color:#333;
 }
-#pitch .pitch-title b {
+#mcafeesecure-pitch .pitch-title b {
    font-weight: 200;
    color:#aa0828;
 }
-#pitch .pitch-content {
+#mcafeesecure-pitch .pitch-content {
    line-height:150%;
    color:#333;
 }

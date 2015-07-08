@@ -5,6 +5,7 @@ jQuery(document).ready(function() {
 //-----------------------------------------------------------------------------------------------------------------
 function load_page() {
    var host = jQuery('#mcafeesecure').attr('data-host');
+   if(!host) return;
    console.log('mfes lookup ' + host);
    jQuery.getJSON('https://www.mcafeesecure.com/rpc/ajax?do=lookup-site-status&jsoncallback=?&rand='+new Date().getTime()+'&host=' + encodeURIComponent(host),function(data) {
       console.log('mfes lookup ' + host + ' is ' + data.status);

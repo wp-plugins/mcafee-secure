@@ -1,5 +1,5 @@
 === McAfee SECURE ===
-Contributors: mcafeesecureben
+Contributors: pathdefenderben
 Tags: security, marketing, seo, trustmark, widget
 Requires at least: 4.2.1
 Tested up to: 4.2.1
@@ -7,7 +7,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The McAfee SECURE trustmark is a free way to show visitors your site has been tested and certified to be secure.
+Show visitors your site has been tested and certified to be secure with the McAfee SECURE trustmark.
 
 == Description ==
 
@@ -79,7 +79,7 @@ The McAfee SECURE trustmark is temporarily revoked for any domain that fails to 
 == Screenshots ==
 
 1. The McAfee SECURE trustmark lets your website visitors know that you're trustworthy and safe to do business with.
-2. After visitors have seen the trustmark and their security needs are met, it becomes smaller, saving you valuable real estate on your site.
+2. The trustmark also provides visitors with a business' contact information, which helps build trust between customer and company.
 3. The verification page on mcafeesecure.com is a way for visitors to authenticate a website's security certificattion by navigating to a third-party page.
 4. Simple plugin control panel.
 
@@ -87,3 +87,6 @@ The McAfee SECURE trustmark is temporarily revoked for any domain that fails to 
 
 = 1.0 =
 * The initial release
+
+= 1.1 =
+* Fixed CSS/JS Scope

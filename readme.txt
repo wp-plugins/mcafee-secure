@@ -87,3 +87,6 @@ The McAfee SECURE trustmark is temporarily revoked for any domain that fails to 
 
 = 1.0 =
 * The initial release
+
+= 1.1 =
+* Fixed CSS/JS Scope

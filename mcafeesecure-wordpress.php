@@ -25,9 +25,8 @@ function mcafeesecure_add_action_links($links) {
 }
 add_filter( 'plugin_action_links_' . plugin_basename(__FILE__), 'mcafeesecure_add_action_links' );
 
-wp_enqueue_style('mcafeesecure_css',plugins_url('/assets/common.css',__FILE__),array(),'1.0',false);
-wp_enqueue_script('mcafeesecure_js',plugins_url('/assets/common.js',__FILE__),array('jquery'),'1.0',false);
-
+#wp_enqueue_style('mcafeesecure_css',plugins_url('/assets/common.css',__FILE__),array(),'1.0',false);
+#wp_enqueue_script('mcafeesecure_js',plugins_url('/assets/common.js',__FILE__),array('jquery'),'1.0',false);
 
 register_deactivation_hook( __FILE__, 'mcafeesecure_deactivate' );
 function mcafeesecure_deactivate() {
@@ -73,10 +72,12 @@ function mcafeesecure_options_page() {
    $email = get_userdata(get_current_user_id())->user_email;
    $partner = 'wp-generic';
    $affiliate = '221269'; //Change to your affiliateId
-   $assets = WP_PLUGIN_URL . '/mcafeesecure-wordpressplugin/assets/';
+   $assets = WP_PLUGIN_URL . '/mcafee-secure/assets/';
    if($_GET["active"] == 1) update_option("mcafeesecure_active","1");
 ?>
-<div class="wrap">
+<script src="<?php echo $assets ?>common.js"></script>
+<link rel="stylesheet" type="text/css" href="<?php echo $assets ?>common.css" />
+<div id="mcafeesecure-config-body" class="wrap">
 <h2>McAfee SECURE</h2>
 <div id="mcafeesecure" data-host="<?php echo $host ?>"></div>
 
@@ -132,7 +133,7 @@ function mcafeesecure_options_page() {
 <p><input type="submit" name="submit" class="button button-primary" value="Get Started"></p>
 </form>
 
-<div id="pitch">
+<div id="mcafeesecure-pitch">
 <div class="pitch-content">
 <div class="pitch-title">Join the SECURE web.<br>Increase your <b>conversions</b>.</div>
 <div class="pitch-text">

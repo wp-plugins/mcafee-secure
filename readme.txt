@@ -11,7 +11,8 @@ Show visitors your site has been tested and certified to be secure with the McAf
 
 == Description ==
 
-**McAfee SECURE certification lets visitors know your website is safe.** 
+**McAfee SECURE certification lets visitors know your website is safe.**
+
 The rise in data breaches has caused a climate of fear among online consumers. As a small business owner, you need to show you're one of the good guys.
 
 The McAfee SECURE trustmark lets visitors see that your site is safe—alleviating security concerns and increasing engagement and conversions. Add the plugin to your site and display the trustmark for up to 500 visitors per month, at no charge.
@@ -20,9 +21,9 @@ The McAfee SECURE trustmark lets visitors see that your site is safe—alleviati
 
 = Key Benefits: =
 
-- **Show Off Your Security:** Get weekly security screenings from the world's largest dedicated security company, and then tell your visitors about it.
-- **Boost Your Engagement:** Easing security concerns will mean a reduced bounce rate and increased visitor usage of your site.
-- **Increase Your Sales:** With McAfee SECURE certification, visitors spend more time interacting on your site—and that ultimately means more conversions.
+* **Show Off Your Security:** Get weekly security screenings from the world's largest dedicated security company, and then tell your visitors about it.
+* **Boost Your Engagement:** Easing security concerns will mean a reduced bounce rate and increased visitor usage of your site.
+* **Increase Your Sales:** With McAfee SECURE certification, visitors spend more time interacting on your site—and that ultimately means more conversions.
 
 = Getting started is easy =
 Once your site is certified, the trustmark will automatically appear on your website, and your customers will know they're on a SECURE site. It's as easy as that!
@@ -64,6 +65,7 @@ Yes. Often we require certified sites to have multiple layers of security includ
 = What is McAfee SECURE Certification Pro? =
 
 [McAfee SECURE Certification Pro](https://www.mcafeesecure.com/pro) is the full version of the service. Our Pro plan includes all of the premium features of the McAfee SECURE service:
+
 * Unlimited Visitors: With our Pro plan, an unlimited number of site visitors will see the trustmark. Whether you’re selling a dozen custom-made pieces of jewelry every quarter or thousands of t-shirts a week, every single visitor will see the trustmark.
 * Search Highlighting: Your site will be highlighted as SECURE in Google, Yahoo and Bing search results.
 * Customized Trustmarks: As a Pro user, you will be able to customize your trustmark to best fit in with your Shopify site. You can customize the size and verification options to fit the needs of your users. The certification trustmarks can remain visible to all site visitors as they navigate through your site, or it can remain in a fixed location.

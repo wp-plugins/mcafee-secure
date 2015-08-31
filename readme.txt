@@ -48,7 +48,7 @@ Once your site is certified, the McAfee SECURE trustmark will display on your we
 
 = How do you define 500 visitors? =
 
-We define "visits" as anyone who engages in a session on your site at some point during the month. The session cookie is set for 24 hours. This means that the visitor needs to be idle for more than 24 hours to be counted as a "visitor" for a second time. At the beginning of each month, the visitor count will start back at 0. Each time you login to the McAfee SECURE portal, you'll be able to see how visitors have seen the trustmark so far for that month.
+We define "visits" as anyone who engages in a session on your site at some point during the month. The session cookie is set for 24 hours. This means that the visitor needs to be idle for more than 24 hours to be counted as a "visitor" for a second time. At the beginning of each month, the visitor count will start back at 0. Each time you login to your account at mcafeesecure.com, you'll be able to see how visitors have seen the trustmark so far for that month.
 
 = What is the trustmark? =
 
@@ -60,7 +60,7 @@ The McAfee SECURE trustmark is designed to let internet users know which website
 
 = Will the McAfee SECURE trustmark work with other Security plugins I have on my site? =
 
-Yes. Often we require certified sites to have multiple layers of security including SSL certificates and perimeter and behind the firewall vulnerability scanning. In many cases, a website will have several security services in place along with certification from McAfee SECURE.
+Yes. Often we require certified sites to have multiple layers of security including SSL certificates and perimeter and behind the firewall vulnerability scanning. In many cases, a website will have several security services in place along with McAfee SECURE certification.
 
 = What is McAfee SECURE Certification Pro? =
 
@@ -69,15 +69,15 @@ Yes. Often we require certified sites to have multiple layers of security includ
 * Unlimited Visitors: With our Pro plan, an unlimited number of site visitors will see the trustmark. Whether you’re selling a dozen custom-made pieces of jewelry every quarter or thousands of t-shirts a week, every single visitor will see the trustmark.
 * Search Highlighting: Your site will be highlighted as SECURE in Google, Yahoo and Bing search results.
 * Customized Trustmarks: As a Pro user, you will be able to customize your trustmark to best fit in with your Shopify site. You can customize the size and verification options to fit the needs of your users. The certification trustmarks can remain visible to all site visitors as they navigate through your site, or it can remain in a fixed location.
-* Engagement Trustmark: This is the newest feature within the McAfee SECURE service. Unlike the floating trustmark, the engagement trustmark stays in one spot. So whether that’s by a signup form or in the checkout of your sales flow, visitors will know they’re safe as soon as they look at an engagement area.
+* Engagement Trustmark: This is the newest feature within the McAfee SECURE service. Unlike the certification trustmark, the engagement trustmark stays in one spot. So whether that’s by a signup form or in the checkout of your sales flow, visitors will know they’re safe as soon as they look at an engagement area.
 
 = How do I upgrade to Pro? =
 
-Upgrading is easy! When you upgrade, your trustmark code stays exactly the same. [Login](https://www.mcafeesecure.com/user/) to the McAfee SECURE portal and you'll have to option to [upgrade to Pro](https://www.mcafeesecure.com/pro). Once you select this option, you can make your first payment and set everything up in just a few minutes. (Note: you will need to add an additional snippet of code to your site in order to install the engagement trustmark. Don't worry: there are easy-to-follow directions on how to do this once you have completed the upgrade.)
+Upgrading is easy! When you upgrade, your trustmark code stays exactly the same. [Login](https://www.mcafeesecure.com/user/) to your account and you'll have to option to [upgrade to Pro](https://www.mcafeesecure.com/pro). Once you select this option, you can make your first payment and set everything up in just a few minutes. (Note: you will need to add an additional snippet of code to your site in order to install the engagement trustmark. Don't worry: there are easy-to-follow directions on how to do this once you have completed the upgrade.)
 
 = Why isn't the trustmark showing up on my site? =
 
-The McAfee SECURE trustmark is temporarily revoked for any domain that fails to meet our security standards for over 72 hours. The McAfee SECURE trustmark mark is temporarily replaced with a transparent image. If this occurs, log in to your account and view your violations. As soon as McAfee determines that the domain meets the McAfee SECURE standard, the trustmark will reappear.
+The McAfee SECURE trustmark is temporarily revoked for any domain that fails to meet our security standards for over 72 hours. The McAfee SECURE trustmark mark is temporarily replaced with a transparent image. If this occurs, log in to your account and view your violations. As soon as we determine that the domain meets our requirements, the trustmark will reappear.
 
 == Screenshots ==
 

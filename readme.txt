@@ -31,8 +31,8 @@ Add the plugin to your site and display the trustmark for up to 500 visitors per
 
 Once your site passes the security check, the trustmark will display on your website, which lets your customers know they're on a SECURE site. [Learn how](https://support.mcafeesecure.com/hc/en-us/articles/205576805-Getting-Started-with-WordPress) to get the trustmark up and running in minutes.
 
-> **Pro Upgrade Available:**
-> Go Pro and Gain More Traffic, Trust and Sales: Upgrade to McAfee SECURE Certification Pro and get premium features that are proven to increase sales, including unlimited trustmark views, the complete trustmark system, search highlighting, website diagnostics, and search engine submission. Learn more about our [engagement trustmark](https://support.mcafeesecure.com/hc/en-us/articles/206073486-Adding-the-Engagement-Trustmark-to-a-Wordpress-Site) and how to add it to your site.
+> **Go Pro and Gain More Traffic, Trust and Sales:**
+> Upgrade to McAfee SECURE Certification Pro and get premium features that are proven to increase sales, including unlimited trustmark views, the complete trustmark system, search highlighting, website diagnostics, and search engine submission. Learn more about our [engagement trustmark](https://support.mcafeesecure.com/hc/en-us/articles/206073486-Adding-the-Engagement-Trustmark-to-a-Wordpress-Site) and how to add it to your site.
 
 = As Featured On: =
 

@@ -1,6 +1,6 @@
 === McAfee SECURE ===
 Contributors: pathdefenderben
-Tags: security, marketing, seo, trustmark, widget
+Tags: marketing, security, seo, trustmark, widget, McAfee SECURE, internet security, website security, website protection, security scans, secure, conversions, engagement, ecommerce, shopping cart abandonment, increase sales, safe browsing, vulnerability, hacks, malware, phishing, prevention, protection, wordpress security, scan, malware prevention, malware protection, safe site, trust, loyalty, securityscan, certification, monitor, commerce, shopping
 Requires at least: 4.2.1
 Tested up to: 4.2.1
 Stable tag: trunk
@@ -11,34 +11,41 @@ Show visitors your site has been tested and certified to be secure with the McAf
 
 == Description ==
 
-**McAfee SECURE certification lets visitors know your website is safe.**
+**Turn your shoppers into buyers by making them feel safe.**
 
-The rise in data breaches has caused a climate of fear among online consumers. As a small business owner, you need to show you're one of the good guys.
+The rise in data breaches has caused a climate of fear among online consumers. You need to show you're one of the good guys.
 
-The McAfee SECURE trustmark lets visitors see that your site is safe—alleviating security concerns and increasing engagement and conversions. Add the plugin to your site and display the trustmark for up to 500 visitors per month, at no charge.
+The McAfee SECURE trustmark lets visitors see that your site is safe—alleviating security concerns and increasing engagement and conversions.
 
-[youtube http://www.youtube.com/watch?v=bbzQelNltsE]
+Add the plugin to your site and display the trustmark for up to 500 visitors per month, at no charge.
+
+[youtube https://www.youtube.com/watch?v=bbzQelNltsE]
 
 = Key Benefits: =
 
-* **Show Off Your Security:** Get weekly security screenings from the world's largest dedicated security company, and then tell your visitors about it.
-* **Boost Your Engagement:** Easing security concerns will mean a reduced bounce rate and increased visitor usage of your site.
-* **Increase Your Sales:** With McAfee SECURE certification, visitors spend more time interacting on your site—and that ultimately means more conversions.
+* Get weekly security scans and show visitors your site is safe by displaying the McAfee SECURE trustmark.
+* Ease security concerns, reduce bounce rates, and increase visitor usage of your site.
+* Build trust with your visitors and increase conversions and sales.
 
 = Getting started is easy =
-Once your site is certified, the trustmark will automatically appear on your website, and your customers will know they're on a SECURE site. It's as easy as that!
+
+Once your site passes the security check, the trustmark will display on your website, which lets your customers know they're on a SECURE site. [Learn how](https://support.mcafeesecure.com/hc/en-us/articles/205576805-Getting-Started-with-WordPress) to get the trustmark up and running in minutes.
 
 > **Pro Upgrade Available:**
-> The paid version of the McAfee SECURE service comes with premium features, including unlimited trustmark views, search highlighting in Google, Yahoo and Bing search results, and customizable trustmarks. Learn more [here](https://www.mcafeesecure.com/pro).
+> Go Pro and Gain More Traffic, Trust and Sales: Upgrade to McAfee SECURE Certification Pro and get premium features that are proven to increase sales, including unlimited trustmark views, the complete trustmark system, search highlighting, website diagnostics, and search engine submission. Learn more about our [engagement trustmark](https://support.mcafeesecure.com/hc/en-us/articles/206073486-Adding-the-Engagement-Trustmark-to-a-Wordpress-Site) and how to add it to your site.
 
-= Tags =
-McAfee SECURE, security, internet security, website security, security scans, secure, conversions, engagement, ecommerce, shopping cart abandonment, increase sales, safe browsing
+= As Featured On: =
+
+* [WPLift](http://wplift.com/mcafee-secure-plugin)
+* [WPBeginner](http://www.wpbeginner.com/plugins/how-to-add-mcafee-secure-seal-to-your-wordpress-site-for-free/)
+* [EightTheme](https://www.8theme.com/blog/adding-free-mcafee-secure-seal-to-a-wordpress-site/)
+* [CreativeHerald](http://creativeherald.com/wordpress-2/free-security-widgets-for-wordpress/)
 
 == Installation ==
 
 1. Upload `mcafeesecure-wordpress` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Configure account and settings through the 'Settings' menu in WordPress
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Configure account and settings through the 'Settings' menu in WordPress
 
 == Frequently Asked Questions ==
 

@@ -14,6 +14,18 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Core Functions
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+function mcafee_secure_engagement( $atts = array()){
+   $a = shortcode_atts( array(
+      'width' => 90,
+   ), $atts );
+
+   $width = intval($a['width']);
+   $width = min(max(60, $width), 120);
+
+   return "<script src='https://cdn.ywxi.net/js/inline.js?w=" . $width . "'></script>";
+}
+add_shortcode( 'mcafeesecure', 'mcafee_secure_engagement' );
+
 function mcafeesecure_register_options_page() {
    add_options_page('McAfee SECURE Settings', 'McAfee SECURE', 'manage_options', 'mcafeesecure-options', 'mcafeesecure_options_page');
 }
